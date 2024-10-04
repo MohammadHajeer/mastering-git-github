@@ -1,5 +1,7 @@
 # Mastering Git and GitHub
 
+## Git Commands
+
 ### Check Git Version
 ```
 git --version
@@ -89,3 +91,10 @@ git reset --hard <commit-hash>
 git fetch
 ```
 - Downloads objects and refs from another repository, without merging.
+
+## ⚔️ Git Advices
+
+### Write your commit in the imperative form
+
+### When writing your commit message make it answer the following question
+- If applied to the codebase this commit will `________`
