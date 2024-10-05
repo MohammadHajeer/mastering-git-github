@@ -6,3 +6,5 @@ console.log("BREAK THE CODE")
 // Compare this snippet from salam.js:
 
 console.log("FIXED THE BUG")
+
+console.log("NEW BRANCH")
