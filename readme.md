@@ -1,5 +1,24 @@
 # Mastering Git and GitHub
 
+## ⚔️ Git Advices
+
+1. Write your commit in the imperative form
+
+2. When writing your commit message make it answer the following question
+    - If applied to the codebase this commit will `________`
+
+
+## 📊 Workflow
+
+1. Clone the repo.
+2. Create a new branch from the `main` or another branch.
+3. Make your changes.
+4. Push the branch to the remote repo.
+5. Open a Pull Request.
+6. Merge the changes.
+7. Pull the merged changes into your local `main` branch.
+8. Repeat from step `2`.
+
 ## 💻 Git Commands
 
 ### Check Git Version
@@ -92,24 +111,7 @@ git fetch
 ```
 - Downloads objects and refs from another repository, without merging.
 
-## ⚔️ Git Advices
 
-### Write your commit in the imperative form
-
-### When writing your commit message make it answer the following question
-- If applied to the codebase this commit will `________`
-
-
-## 📊 Workflow
-
-1. Clone the repo.
-2. Create a new branch from the `main` or another branch.
-3. Make your changes.
-4. Push the branch to the remote repo.
-5. Open a Pull Request.
-6. Merge the changes.
-7. Pull the merged changes into your local `main` branch.
-8. Repeat from step `2`.
 
 
 
